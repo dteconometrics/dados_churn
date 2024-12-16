@@ -1,9 +1,9 @@
-streamlit ==  1.41.0
-pandas == 2.2.2
-plotly == 5.23.0
-matplotlib == 3.4.3
-seaborn == 0.13.2
-numpy == 2.0.1 
+streamlit==1.41.0
+pandas==2.2.2
+plotly==5.23.0
+matplotlib ==3.4.3
+seaborn== 0.13.2
+numpy== 2.0.1 
 openpyxl
 setuptools>=68.0.0
 wheel>=0.41.2
