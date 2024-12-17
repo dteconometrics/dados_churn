@@ -1,10 +1,12 @@
-# dados_churn
+# Projeto: Previsão do Churn
 
-## Para acessar o projeto 
+Este projeto realiza a análise e previsão do churn (cancelamento) de clientes, utilizando visualizações, modelagem preditiva e uma aplicação interativa em Streamlit.
 
-1) Para acessar o Script: basta ir na pasta "visualização" e em seguida "previsão churn"
+1) Scripts de Análise
+  - Os scripts para análise e visualização estão organizados na pasta:
+      -visualização/previsão_churn
 
-2) Aplicação com Streamlit: Basta ir em "home.py" e na pasta page e em seguida "1_visão_geral.py"
-
-   
-   
+2) Aplicação em Streamlit
+- A aplicação interativa foi desenvolvida utilizando Streamlit:
+- Arquivo principal: home.py
+  -Página principal da aplicação: pages/1_visão_geral.py    
