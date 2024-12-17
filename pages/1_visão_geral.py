@@ -2,9 +2,6 @@
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
 import streamlit as st 
 
 
